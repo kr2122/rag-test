@@ -20,7 +20,7 @@
 
 
 ## 项目结构
-
+```plaintext
 rag-test/
 ├── lang_rag/               # 核心功能模块
 │   ├── doc/                # RAG知识库文档（模型特性、适用场景等）
@@ -89,6 +89,7 @@ pip install -r requirements.txt  # 若未创建requirements.txt，可手动安�
 
 这个README基于你仓库的实际文件结构（包含`lang_rag/data`下的CSV文件、`model`目录下的模型文件等）进行了优化，补充了更具体的项目细节和使用流程，方便其他开发者快速理解和使用你的项目。
 ```
+
 
 
 
