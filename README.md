@@ -22,8 +22,7 @@
 
 
 ## 项目结构
-```
-```
+
 rag-test/
 ├── lang_rag/               # 核心功能模块
 │   ├── doc/                # RAG知识库文档（模型特性、适用场景等）
@@ -45,8 +44,6 @@ rag-test/
 ├── vector_db/              # RAG向量数据库（存储知识库向量表示）
 └── README.md               # 项目说明文档
 ```
-```
-
 ## 快速开始
 
 ### 环境要求
@@ -64,8 +61,8 @@ cd rag-test
 # 安装依赖
 pip install -r requirements.txt  # 若未创建requirements.txt，可手动安装上述依赖
 ```
-```
-```
+
+
 ### 使用流程
 
 1. 将你的数据集放入 `lang_rag/data/` 目录（支持CSV格式）
@@ -87,9 +84,10 @@ pip install -r requirements.txt  # 若未创建requirements.txt，可手动安�
 
 ## 联系方式
 
-如有问题或建议，欢迎提交Issue或联系：你的邮箱地址
-```
+如有问题或建议，欢迎提交Issue或联系：2624964839@qq.com
+
 ```
 
 这个README基于你仓库的实际文件结构（包含`lang_rag/data`下的CSV文件、`model`目录下的模型文件等）进行了优化，补充了更具体的项目细节和使用流程，方便其他开发者快速理解和使用你的项目。
 ```
+
